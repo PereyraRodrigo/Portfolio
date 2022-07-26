@@ -1,0 +1,23 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.textContainer{
+    background-color: aliceblue;
+    min-height: 100vh;
+}
+.smallText{
+    margin: auto;
+    text-align: center;
+    font-size: 13px;
+    padding-top: 15px;
+}
+.text{
+    margin: auto;
+    font-size: 39px;
+    text-align: center;
+    padding-top: 18%;
+}
+a{
+    text-decoration: none;
+
+}
